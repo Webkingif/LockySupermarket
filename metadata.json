@@ -1,0 +1,6 @@
+{
+  "name": "Locky",
+  "description": "Premium 6-page responsive website for Locky Supermarkets, featuring custom interactive navigation, fresh product showcase, and immersive UI/UX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
